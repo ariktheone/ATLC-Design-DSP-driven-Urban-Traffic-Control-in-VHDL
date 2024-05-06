@@ -16,17 +16,30 @@ The project is developed using the Vivado Design Suite, which provides a compreh
 
 ## Image Positions
 
-1. ![Automated controlled traffic simulation.](image1.png)
-   This image illustrates the simulation output of the automated controlled traffic system, displaying the status of traffic lights at different directions.
+1.
+    ![Automated controlled traffic simulation.](image1.png)
 
-2. ![Initial diagram.](image2.png)
-   The initial diagram provides an overview of the traffic light system's design and structure.
+  This image illustrates the simulation output of the automated controlled traffic system, displaying the status of traffic lights at different directions.
 
-3. ![Very much magnified inside the above diagram.](image3.png)
+
+2.
+    ![Initial diagram.](image2.png)
+
+  The initial diagram provides an overview of the traffic light system's design and structure.
+
+
+3.
+   ![Very much magnified inside the above diagram.](image3.png)
+   ![Very much magnified inside the above diagram.](image5.png)
+
    This image offers a closer look at the components and connections inside the traffic light system.
 
-4. ![Circuit Diagram.](image4.png)
-   The circuit diagram visually represents the hardware implementation of the traffic light controller.
+
+5.
+   ![Circuit Diagram.](image4.png)
+
+  The circuit diagram visually represents the hardware implementation of the traffic light controller.
+
 
 ## Methodology
 
