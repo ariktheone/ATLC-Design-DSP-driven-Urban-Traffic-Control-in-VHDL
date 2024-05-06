@@ -12,7 +12,7 @@ The project is developed using the Vivado Design Suite, which provides a compreh
 
 - **Design Code**: VHDL code implementing the ATLC system, defining states, state transition logic, and output signals.
 - **Testbench Code**: VHDL code for simulating the traffic light system, setting up the simulation environment, and applying stimuli.
-- **README.md**: Detailed description of the project, including its objectives, methodology, results, and conclusion.
+
 
 ## Image Positions
 
